@@ -1,2 +1,2 @@
 # python
-Let's make it alive!
+Executable pseudocode.
