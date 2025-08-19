@@ -1,0 +1,5 @@
+title: "Repository Configuration"
+description: "Configuration files for linting, styling, and repository behavior"
+files:
+  - commitlint.config.js
+  - style.css
